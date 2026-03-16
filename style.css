@@ -23,6 +23,8 @@ body {
   display: block;
   margin: 20px auto;
   object-fit: cover;
+  width: 120px;
+  height: 120px;
 }
 
 .btn-blue {
